@@ -3,7 +3,7 @@
 
 # 使用
 ```js
-implementation('com.github.zcwk:adialog:1.0.0') {
+implementation('com.github.zcwk:adialog:1.0.0@aar') {
         exclude group: 'com.android.support'
     }
 ```
